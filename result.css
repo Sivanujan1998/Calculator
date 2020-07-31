@@ -1,0 +1,52 @@
+.ans{
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    
+}
+.back{
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 50px;
+    height: 300px;
+    width: 100%;
+    z-index: 5;
+    position: absolute;
+}
+.for{
+    font-size: 30px;
+    text-align: center;
+}
+.success{
+    text-align: center;
+}
+body{
+    margin-top: 8%;
+    
+    }
+
+.b4{
+     background-color: #3d663f; /* Green */
+        border: none;
+        color: white;
+      
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40;
+        border: 2px solid #ffffff;
+        height:65px;
+        width:370px;
+        border-radius: 12px;
+       
+        box-shadow: 0 5px #666;
+        transform: translate(4px);
+       }
+       .b4:hover {
+        box-shadow: 0 30px 20px 0 rgba(0,0,0,0.24), 0 30px 50px 0 rgba(0,0,0,0.19);
+        background-color: rgb(76, 138, 76);
+      }
+      .b4:active{
+        background:rgb(10, 10, 10);
+      }
+      
